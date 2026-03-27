@@ -2,9 +2,9 @@
 <img source="<img width="500" height="348" alt="image" src="https://media3.giphy.com/media/CzrZNbaL8HwW7NTdV4/source.gif" />
 
 ## Descripcion
-Esta aplicación es un sistema de recomendación de películas que permite a los usuarios descubrir contenido de calidad de forma rápida y sencilla. A partir de un género seleccionado, el sistema analiza datos del IMDb para identificar y mostrar las películas mejor calificadas.
+Esta aplicacion es un sistema de recomendación de películas basado en el análisis de datos provenientes de IMDb. Utiliza criterios como género y calificación promedio para filtrar, ordenar y seleccionar las películas más relevantes dentro de un conjunto de datos. 
 
-En lugar de depender de preferencias previas del usuario, la aplicación se basa en tendencias globales y valoraciones generales, ofreciendo recomendaciones confiables y objetivas. Además, facilita la exploración de nuevas opciones dentro de cada género y promueve el descubrimiento de películas destacadas.
+Las recomendaciones se basan en el contenido, donde se priorizan criterios como el rating y la popularidad. A partir de este proceso, se generan sugerencias que permiten identificar patrones y tendencias en la industria cinematográfica, facilitando  asi la exploración de contenido de alta calidad para el usuario.
 
 
 ## Contenido
