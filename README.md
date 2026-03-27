@@ -5,7 +5,7 @@
 ## Contenido
 - [Objetivos](#objetivos)
 
-- [Rol_del_Cientifico_de_Datos](#rol-cientifico-de-datos)
+- [Rol del Cientifico de Datos](#rol-cientifico-de-datos)
 
 - [Datos Utilizados](#datos-utilizados)
 
