@@ -13,9 +13,7 @@
 
 ## Objetivos
 
-Desarrollar una aplicación que, mediante el uso de datos de IMDb, permita recomendar películas de forma eficiente y confiable, utilizando datos reales. permita orientar al usuario en la elección de películas, ofreciendo recomendaciones basadas en el género y la calificación.
-
-### Objetivos específicos:
+Brindar al usuario una variada recomendacion de películas, que faciliten la elección de qué ver, basadas en el género de su preferencia y en las calificaciones que han hecho otras personas, permitiéndole asi, descubrir películas bien valoradas de manera rápida y sencilla.
 
 1. Analizar datos provenientes de IMDb
 2. Filtrar películas por género
