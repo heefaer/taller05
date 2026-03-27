@@ -3,9 +3,25 @@
 
 
 ## Contenido
+- [Objetivos](#objetivos)
+
+- [Rol_del_Cientifico_de_Datos](#rol-cientifico-de-datos)
+
 - [Datos Utilizados](#datos-utilizados)
 
 - [Metodología](#metodología)
+
+## Objetivos
+
+Desarrollar una herramienta basada en ciencia de datos que permita recomendar películas de forma eficiente y confiable, utilizando datos reales.
+
+Objetivos específicos:
+
+1. Analizar datos provenientes de IMDb
+2. Filtrar películas por género
+3. Clasificar según su puntuación
+4. Recomendar contenido relevante
+5. Mejorar la experiencia del usuario
 
 ## Datos utilizados
 
