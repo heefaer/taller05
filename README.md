@@ -1,13 +1,10 @@
 <h1 align="center">Aplicación de recomendación de películas</h1>
 <img source="<img width="500" height="348" alt="image" src="https://media3.giphy.com/media/CzrZNbaL8HwW7NTdV4/source.gif" />
 
-## Descripcion
-Esta aplicacion es un sistema de recomendación de películas basado en el análisis de datos provenientes de IMDb. Utiliza criterios como género y calificación promedio para filtrar, ordenar y seleccionar las películas más relevantes dentro de un conjunto de datos. 
-
-Las recomendaciones se basan en el contenido, donde se priorizan criterios como el rating y la popularidad. A partir de este proceso, se generan sugerencias que permiten identificar patrones y tendencias en la industria cinematográfica, facilitando  asi la exploración de contenido de alta calidad para el usuario.
-
 
 ## Contenido
+- [Descripcion](#descripcion)
+  
 - [Objetivos](#objetivos)
 
 - [Rol del Cientifico de Datos](#rol-cientifico-de-datos)
@@ -15,6 +12,13 @@ Las recomendaciones se basan en el contenido, donde se priorizan criterios como 
 - [Datos Utilizados](#datos-utilizados)
 
 - [Metodología](#metodología)
+
+
+## Descripcion
+Esta aplicacion es un sistema de recomendación de películas basado en el análisis de datos provenientes de IMDb. Utiliza criterios como género y calificación promedio para filtrar, ordenar y seleccionar las películas más relevantes dentro de un conjunto de datos. 
+
+A partir de este proceso, se generan sugerencias que permiten identificar patrones y tendencias en la industria cinematográfica, facilitando  asi la exploración de contenido de alta calidad para el usuario.
+
 
 ## Objetivos
 
