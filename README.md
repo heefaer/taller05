@@ -1,6 +1,11 @@
 <h1 align="center">Aplicación de recomendación de películas</h1>
 <img source="<img width="500" height="348" alt="image" src="https://media3.giphy.com/media/CzrZNbaL8HwW7NTdV4/source.gif" />
 
+## Descripcion
+Esta aplicación es un sistema de recomendación de películas que permite a los usuarios descubrir contenido de calidad de forma rápida y sencilla. A partir de un género seleccionado, el sistema analiza datos del IMDb para identificar y mostrar las películas mejor calificadas.
+
+En lugar de depender de preferencias previas del usuario, la aplicación se basa en tendencias globales y valoraciones generales, ofreciendo recomendaciones confiables y objetivas. Además, facilita la exploración de nuevas opciones dentro de cada género y promueve el descubrimiento de películas destacadas.
+
 
 ## Contenido
 - [Objetivos](#objetivos)
